@@ -6,4 +6,4 @@
 - [ ] 技术/信息架构（TA/IA）
 - [ ] 数据架构（DA）
 
-$$ L_{pretrain}(\varTheta)=-\frac{1}{N}\sum_{i=1}^N logP(x_i|x_{<i};\varTheta) $$
+$$ L_{pretrain}(θ)=-\frac{1}{N}\sum_{i=1}^N logP(x_i|x_{<i};θ) $$
